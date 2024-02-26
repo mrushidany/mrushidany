@@ -1,4 +1,5 @@
-<!-- ### Hi there 👋
+### Hi there 👋
+<!-- 
 **mrushidany/mrushidany** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -11,5 +12,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 <a href="https://app.daily.dev/mrushidany"><img src="https://api.daily.dev/devcards/v2/Fwvp9LwIC.png?type=default&r=akz" width="356" alt="Yungy_Bash's Dev Card"/></a>
+
+-->
